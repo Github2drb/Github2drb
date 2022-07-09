@@ -1,0 +1,31 @@
+﻿<xpml><page quantity='0' pitch='13.0 mm'></xpml>^XA
+^SZ2^JMA
+^MCY^PMN
+^PW719
+~JSN
+^MD18
+~!G0
+^JZY
+^LH18,0^LRN
+^XZ
+<xpml></page></xpml><xpml><page quantity='1' pitch='13.0 mm'></xpml>^XA
+^FO625,25
+^BQN,4.4,4.4^FDLA,ACPNO#VC#CELLNO#DDMMYY#SFNO#SLNO#^SF%%%%%%%%%%%%%%%%%%%%%%%%%%%%DDDD^FS
+^FO5,25
+^BQN,4.4,4.4^FDLA,BCPNO#VC#CELLNO#DDMMYY#SFNO#SLNO#^SF%%%%%%%%%%%%%%%%%%%%%%%%%%%%DDDD^FS
+
+^FT625,160
+^CI0
+^A0N,16,16^FDCPNO#^FS
+^FT5,160
+^CI0
+^A0N,16,16^FDCPNO#^FS
+^FT235,145
+^A0N,34,34^FDBINO#^FS
+^FT395,145
+^A0N,34,34^FDSLNO#^SFDDDD^FS
+
+
+^PQOTN#,0,1,Y
+^XZ
+<xpml></page></xpml><xpml><end/></xpml>

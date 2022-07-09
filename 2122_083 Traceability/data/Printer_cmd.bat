@@ -1,0 +1,1 @@
+COPY D:\C18_L1.prn /B \\DESKTOP-UKGT7BO\C18_Printer
